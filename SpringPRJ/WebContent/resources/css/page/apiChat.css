@@ -1,0 +1,42 @@
+.chat_head_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat_head_box i {
+    padding-right: 20px;
+}
+
+.chat-footer i {
+    color: blue;
+    cursor: pointer;
+}
+
+.chat-footer {
+    position: relative;
+}
+
+#micButtonBox {
+    position: relative;
+    top: 15%;
+    left: 47%;
+}
+
+@media only screen and (min-width: 426px) and (max-width: 576px) {
+    #micButtonBox {
+        left: 43%;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 425px) {
+    #micButtonBox {
+        left: 41%;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px) {
+    #micButtonBox {
+        left: 39%;
+    }
+}

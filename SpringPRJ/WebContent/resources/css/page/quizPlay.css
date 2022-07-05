@@ -1,0 +1,42 @@
+.button_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.play_button {
+    width: 47%;
+}
+
+.next_button {
+    border-color: #4cd3e3;
+    color: #4cd3e3;
+}
+
+.next_button:hover {
+    background-color: #4cd3e3;
+    border-color: #4cd3e3;
+    color: white;
+}
+
+.mic_box {
+    position: relative;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+
+.context_box {
+    justify-content: center;
+}
+
+.right_loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999999;
+}
+
+.right_loader .right_loader_icon i {
+    color: aquamarine;
+}
