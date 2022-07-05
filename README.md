@@ -42,5 +42,4 @@
 > <a href="https://www.hanium.or.kr/portal/probono/businessOverview.do">https://www.hanium.or.kr/portal/probono/businessOverview.do</a>
 
 ### 수상
-> <a href="https://www.notion.so/2021-8b8fcc31e57a4aa8b325f36b89f3be8b">링크</a>
-
+> 입선
